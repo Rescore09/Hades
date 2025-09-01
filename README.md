@@ -103,8 +103,8 @@ You can change the target webhook, admin key, rate limit, and window by editing 
 
 
 <div align="center">
-**❌ Built with ❤️**<br>
-**✅ Built with Rust**
+<B>❌ Built with ❤️</B><br>
+<B>✅ Built with Rust</B>
 
 [Report Bug](https://github.com/rescore/hades/issues) • [Request Feature](https://github.com/rescore/hades/issues)
 
